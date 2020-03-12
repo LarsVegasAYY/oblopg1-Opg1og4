@@ -1,0 +1,17 @@
+C:\Users\Lars\source\repos\Opg1\Opg1\bin\Debug\netcoreapp2.1\Opg1.deps.json
+C:\Users\Lars\source\repos\Opg1\Opg1\bin\Debug\netcoreapp2.1\Opg1.dll
+C:\Users\Lars\source\repos\Opg1\Opg1\bin\Debug\netcoreapp2.1\Opg1.pdb
+C:\Users\Lars\source\repos\Opg1\Opg1\obj\Debug\netcoreapp2.1\Opg1.csprojAssemblyReference.cache
+C:\Users\Lars\source\repos\Opg1\Opg1\obj\Debug\netcoreapp2.1\Opg1.csproj.CoreCompileInputs.cache
+C:\Users\Lars\source\repos\Opg1\Opg1\obj\Debug\netcoreapp2.1\Opg1.AssemblyInfoInputs.cache
+C:\Users\Lars\source\repos\Opg1\Opg1\obj\Debug\netcoreapp2.1\Opg1.AssemblyInfo.cs
+C:\Users\Lars\source\repos\Opg1\Opg1\obj\Debug\netcoreapp2.1\Opg1.dll
+C:\Users\Lars\source\repos\Opg1\Opg1\obj\Debug\netcoreapp2.1\Opg1.pdb
+C:\Users\Lars\OneDrive\datamatiker\3 Semester\Programmerings Opgaver\Første Obligatoriske Opgave\Opg1\Opg1\bin\Debug\netcoreapp2.1\Opg1.deps.json
+C:\Users\Lars\OneDrive\datamatiker\3 Semester\Programmerings Opgaver\Første Obligatoriske Opgave\Opg1\Opg1\bin\Debug\netcoreapp2.1\Opg1.dll
+C:\Users\Lars\OneDrive\datamatiker\3 Semester\Programmerings Opgaver\Første Obligatoriske Opgave\Opg1\Opg1\bin\Debug\netcoreapp2.1\Opg1.pdb
+C:\Users\Lars\OneDrive\datamatiker\3 Semester\Programmerings Opgaver\Første Obligatoriske Opgave\Opg1\Opg1\obj\Debug\netcoreapp2.1\Opg1.csproj.CoreCompileInputs.cache
+C:\Users\Lars\OneDrive\datamatiker\3 Semester\Programmerings Opgaver\Første Obligatoriske Opgave\Opg1\Opg1\obj\Debug\netcoreapp2.1\Opg1.AssemblyInfoInputs.cache
+C:\Users\Lars\OneDrive\datamatiker\3 Semester\Programmerings Opgaver\Første Obligatoriske Opgave\Opg1\Opg1\obj\Debug\netcoreapp2.1\Opg1.AssemblyInfo.cs
+C:\Users\Lars\OneDrive\datamatiker\3 Semester\Programmerings Opgaver\Første Obligatoriske Opgave\Opg1\Opg1\obj\Debug\netcoreapp2.1\Opg1.dll
+C:\Users\Lars\OneDrive\datamatiker\3 Semester\Programmerings Opgaver\Første Obligatoriske Opgave\Opg1\Opg1\obj\Debug\netcoreapp2.1\Opg1.pdb
